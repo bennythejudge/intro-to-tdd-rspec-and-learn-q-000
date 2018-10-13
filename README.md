@@ -1,5 +1,7 @@
 ## Intro to TDD, RSpec, and Learn
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/intro-to-tdd-rspec-and-learn-q-000.svg)](https://www.guardrails.io)
+
 ## Objectives
 
 1. Define the purpose of a code test.
